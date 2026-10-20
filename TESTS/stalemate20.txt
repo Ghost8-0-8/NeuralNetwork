@@ -1,0 +1,6 @@
+5k2/8/p7/P3Q3/2B3P1/8/2P2PP1/7K b - - 0 48
+8/5p1p/2p3p1/b1Pp2P1/P2Kpk2/8/8/8 w - - 0 44
+8/8/6p1/5pPk/1P1K1P1p/P6P/3R4/8 b - - 1 49
+8/5p1p/1p3P1k/1P4pP/2RPK1P1/8/8/8 b - - 0 40
+7R/8/8/6pp/3Q2nk/1P2B1p1/P5B1/5K2 b - - 1 52
+8/8/8/1r1p1k1p/6pr/p5pB/P4bP1/7K w - - 0 46

@@ -1,0 +1,6 @@
+#!/bin/bash
+arrVar=()
+for i in "$@"; do
+    arrVar+=("$i")
+done
+python3 PLACEHOLDER_SCRIPT "${arrVar[@]}"

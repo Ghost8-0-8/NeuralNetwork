@@ -1,0 +1,28 @@
+Résultats du Benchmark
+====================
+
+
+Configuration: ReLU
+--------------------
+Loss finale: 0.8705
+Accuracy finale: 0.6415
+
+Configuration: Linear
+--------------------
+Loss finale: 1.2846
+Accuracy finale: 0.4727
+
+Configuration: Tanh
+--------------------
+Loss finale: 0.9057
+Accuracy finale: 0.6306
+
+Configuration: Sigmoid
+--------------------
+Loss finale: 1.2328
+Accuracy finale: 0.4680
+
+Meilleure Configuration
+=====================
+Type: ReLU
+Accuracy: 0.6415

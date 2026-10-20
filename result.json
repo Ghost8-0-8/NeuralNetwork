@@ -1,0 +1,147 @@
+{
+    "check10.txt": [
+        "Check Black",
+        "Check Black",
+        "Check White",
+        "Check White",
+        "Check Black",
+        "Check White"
+    ],
+    "check20.txt": [
+        "Check White",
+        "Check White",
+        "Check White",
+        "Check White",
+        "Check Black",
+        "Check Black"
+    ],
+    "checkmate10.txt": [
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate White"
+    ],
+    "checkmate20.txt": [
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate Black"
+    ],
+    "nothing10.txt": [
+        "Nothing",
+        "Nothing",
+        "Nothing",
+        "Nothing",
+        "Nothing",
+        "Nothing"
+    ],
+    "nothing20.txt": [
+        "Nothing",
+        "Nothing",
+        "Nothing",
+        "Nothing",
+        "Nothing",
+        "Nothing"
+    ],
+    "stalemate10.txt": [
+        "Stalemate",
+        "Stalemate",
+        "Stalemate",
+        "Stalemate",
+        "Stalemate"
+    ],
+    "stalemate20.txt": [
+        "Stalemate",
+        "Stalemate",
+        "Stalemate",
+        "Stalemate",
+        "Stalemate",
+        "Stalemate"
+    ],
+    "allmix.txt": [
+        "Check White",
+        "Check White",
+        "Nothing",
+        "Check White",
+        "Nothing",
+        "Stalemate",
+        "Check White",
+        "Checkmate Black",
+        "Nothing",
+        "Checkmate White",
+        "Stalemate",
+        "Nothing",
+        "Check Black",
+        "Checkmate Black",
+        "Stalemate",
+        "Nothing",
+        "Checkmate White",
+        "Nothing",
+        "Nothing",
+        "Stalemate"
+    ],
+    "allmany.txt": [
+        "Check White",
+        "Checkmate Black",
+        "Nothing",
+        "Stalemate",
+        "Check White",
+        "Nothing",
+        "Checkmate Black",
+        "Check Black",
+        "Nothing",
+        "Checkmate White"
+    ],
+    "all10.txt": [
+        "Check Black",
+        "Checkmate White",
+        "Check White",
+        "Checkmate White",
+        "Stalemate",
+        "Checkmate White",
+        "Checkmate White",
+        "Checkmate Black",
+        "Nothing",
+        "Checkmate Black"
+    ],
+    "all20.txt": [
+        "Check White",
+        "Nothing",
+        "Check Black",
+        "Nothing",
+        "Checkmate White",
+        "Checkmate White",
+        "Stalemate",
+        "Check White",
+        "Stalemate",
+        "Nothing"
+    ],
+    "checkmatemany.txt":[
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate White",
+        "Checkmate White"
+    ],
+    "nothingmany.txt":[
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate White",
+        "Checkmate White"
+    ],
+    "checkmany.txt": [
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate Black",
+        "Checkmate White",
+        "Checkmate White",
+        "Checkmate White"
+    ]
+}
